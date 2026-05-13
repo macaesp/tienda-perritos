@@ -160,10 +160,3 @@ El proyecto cuenta con tres workflows de GitHub Actions, uno por servicio:
 Solo el **Frontend** es accesible desde Internet. El Backend y la DB se encuentran en subredes privadas, accesibles únicamente desde dentro de la VPC según las reglas de los Security Groups.
 
 ---
-
-## 👩‍💻 Autora
-
-**Macarena Espinoza**  
-Evaluación Parcial N°2 - Introducción a Herramientas DevOps  
-DuocUC - IHDP-001D  
-Mayo 2026
