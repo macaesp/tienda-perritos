@@ -1,3 +1,4 @@
+-- prueba 1
 CREATE DATABASE IF NOT EXISTS tienda_perritos;
 USE tienda_perritos;
 
