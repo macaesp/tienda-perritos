@@ -1,4 +1,4 @@
-// prueba 1
+// pruebas 1
 const express = require("express");
 const cors = require("cors");
 const mysql = require("mysql2/promise");
